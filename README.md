@@ -44,28 +44,12 @@ Junior Business Data Analyst & BI Reporting Analyst with strong skills in Power 
 ### Programming Instructor | Code Tech Academy | Cairo, Egypt | December 2024 – May 2025
 - Mentored 50+ students in Python and JavaScript, focusing on logic building and problem-solving skills
 
-## 📈 Key Projects
-
-### End-to-End Data Analysis – NTI Internship
-Built a full ETL workflow for Food Mart sales data using **SQL** for data extraction and analysis, and **Power BI** for interactive reporting and KPI-driven dashboards.
-
-### Amazon Web Scraping & Market Analysis
-Developed a Python-based web scraping solution to collect Amazon pricing and product data, followed by trend and competitor analysis that identified a **15% market pricing gap**.
-
-### Stock Market Analysis – DEPI Internship
-Performed end-to-end analysis of stock market data, including data cleaning, trend analysis, and KPI evaluation, with insights delivered through visual reports and dashboards.
 
 ## 🏆 Achievements & Recognition
 
 ### NASA Space Apps Challenge - Obour Hackathon 2024
 - **Technical Mentor Recognition:** Acknowledged by NASA Space Apps for outstanding performance and mentorship
 - **Academic Mentor Team Recognition:** Awarded for exceptional teamwork and problem-solving
-
-## 🎓 Education & Certifications
-
-### Education
-**Bachelor of Commerce - Business Administration**, Ain Shams University, Cairo, Egypt  
-*Graduated: 2025*
 
 ### Certifications & Professional Training
 - **AI Ambassador Program** | NTI | November 2025
@@ -84,9 +68,6 @@ Performed end-to-end analysis of stock market data, including data cleaning, tre
 - **English:** Fluent (CEFR B2 Certified)
 - **German:** Intermediate
 
-## 🧠 Soft Skills
-Analytical Thinking • Problem Solving • Quick Learning • Effective Communication • Attention to Detail
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Ghada-Mourad">
@@ -99,7 +80,6 @@ Analytical Thinking • Problem Solving • Quick Learning • Effective Communi
 ## 📫 Let's Connect
 - 📧 **Email:** [ghadamourad4@gmail.com](mailto:ghadamourad4@gmail.com)
 - 📞 **Phone:** +201100150989
-- 💼 **LinkedIn:** [linkedin.com/in/ghada-mourad](https://linkedin.com/in/ghada-mourad)
 - 🗺️ **Location:** Heliopolis, Cairo, Egypt
 
 ---
